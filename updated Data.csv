@@ -1,0 +1,14 @@
+Name,Category,Available stock,Time checked,Unit price,Inventry value,Order quantity ,Barcode,gr.no,Product id
+Avacado,Groceries,70,4-Jul-18,120,"8,400",50,452167,1231,154
+Lotion,Cosmetics,231,18-Jul-18,140,"32,340",50,321468,4312,243
+Toothpaste,Cosmetics,151,26-Jul-18,70,"10,570",150,434368,1896,243
+Pain Reliever,Pharmacy,177,27-Jul-18,65,"11,505",50,748549,1976,487
+Dry Pasta,Groceries,38,31-Jul-18,40,"1,520",50,198127,1342,154
+Toothbrush,Cosmetics,154,19-Jul-19,30,"4,620",150,218198,3563,243
+Mascara,Cosmetics,184,21-Oct-18,120,"22,080",100,981015,4363,243
+Dry Cerial,Groceries,200,30-Nov-19,110,"22,000",100,101579,4858,154
+Blush,Cosmetics,186,20-Nov-20,130,"24,180",150,221593,7961,243
+Oatmeal,Groceries,50,22-Jun-18,140,"7,000",50,119218,9618,154
+Header tablets,Pharmacy,40,22-Jul-24,154,"6,160",40,198634,9846,487
+crocin,Pharmacy,30,28-Aug-19,187,"11,260",60,901743,7903,487
+apple,groceries,40.0,20-10-2019,40.0,50,108625,4839,154,1600.0
